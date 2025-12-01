@@ -32,8 +32,8 @@ export const Contact: React.FC = () => {
                 <div>
                     <h4 className="text-xs font-mono text-white/40 uppercase tracking-widest mb-2">Studio</h4>
                     <p className="text-xl font-medium text-white/80">
-                        100 Lafayette St,<br/>
-                        SoHo, New York
+                        Delhi,<br/>
+                        New Delhi , India
                     </p>
                 </div>
             </div>

@@ -62,7 +62,7 @@ export const Services: React.FC = () => {
                     <p className="text-secondary mb-8">
                         We don't just design interfaces; we integrate intelligent agents. From customer support to predictive analytics, our stacks are AI-ready from day one.
                     </p>
-                    <span className="text-xs font-mono border border-white/20 px-3 py-1 rounded-full uppercase">Powered by Gemini</span>
+                    <span className="text-xs font-mono border border-white/20 px-3 py-1 rounded-full uppercase">Powered by Elyvra</span>
                 </div>
             </div>
 

@@ -35,7 +35,7 @@ export const Footer: React.FC = () => {
       
       <div className="mt-12 md:mt-24 flex justify-between items-center border-t border-white/5 pt-8">
         <span className="text-xs text-white/30 font-mono">© 2024 {BRAND_NAME} STUDIOS</span>
-        <span className="text-xs text-white/30 font-mono">NY — LDN — TYO</span>
+        <span className="text-xs text-white/30 font-mono">NY — New Delhi, India — TYO</span>
       </div>
     </footer>
   );
