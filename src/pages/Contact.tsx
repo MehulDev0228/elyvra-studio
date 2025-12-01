@@ -8,8 +8,9 @@ export const Contact: React.FC = () => {
 
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
-        // Handle submission
-        alert("Thank you for your inquiry. We will be in touch shortly.");
+        // Placeholder: Supabase integration will go here
+        alert('Thank you for your inquiry. We will be in touch shortly.');
+        setFormState({ name: '', email: '', message: '' });
     };
 
   return (
